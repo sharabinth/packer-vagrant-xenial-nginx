@@ -14,7 +14,7 @@ $packer validate template.json
 $packer build template.json
 ```
 
-The above should create an image named as nginx64-vbox.box in the current folder.
+The above should create an image named as **nginx64-vbox.box** in the current folder.
 
 ## Test Image
 
